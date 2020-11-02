@@ -1,0 +1,9 @@
+npm i react-router-dom 
+permite trabajar con las rutas desde los navegadores 
+manejos de pareametros, etc rendereando componentes a traves 
+de las rutas
+
+npm i raact-boostrap boostrap
+
+npm i axios
+
